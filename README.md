@@ -1,1 +1,1 @@
-Pokdedesk Project is basically based on the how data will be fetched from the brower using the inbuilt react api method or using the axios method using the Javascript based and also maintaning the diffrent States and Hooks.
+Pokedesk Project is basically based on the how data will be fetched from the brower using the inbuilt react api method or using the axios method using the Javascript based and also maintaning the diffrent States and Hooks.
